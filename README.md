@@ -4,7 +4,7 @@ Ruoqi Zhang, Per Mattsson, [Torbjörn Wigren](http://www.it.uu.se/katalog/tw) [U
 
 > This paper argues that three ideas can improve reinforcement learning methods even for highly nonlinear set-point control problems: 1) Make use of a prior feedback controller to aid amplitude exploration.  2) Use integrated errors. 3) Train on model ensembles. Together these ideas lead to more efficient training, and a trained set-point controller that is more robust to modelling errors and thus can be directly deployed to real-world nonlinear systems.
 
-This is a PyTorch implementation based on [ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) for our ACC paper [Robust Non-linear Set-point control with Reinforcement Learning]()
+This is a PyTorch implementation based on [ElegantRL](https://github.com/AI4Finance-Foundation/ElegantRL) for our ACC paper [Robust Non-linear Set-point control with Reinforcement Learning](https://arxiv.org/abs/2304.10277)
 
 ## Installation and Usage
 
